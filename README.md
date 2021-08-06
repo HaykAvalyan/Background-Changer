@@ -1,1 +1,1 @@
-# Background-Changer
+# Background Changer in vanilla JS
